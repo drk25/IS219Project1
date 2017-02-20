@@ -18,7 +18,7 @@
 						<ul>
 							<li>Date of Birth : Nov 26, 1992</li>
 							<li>E-Mail : dhawal.khatiwala@gmail.com</li>
-							<li>Contact Number : 732-749-2112</li>
+							<li>Contact Number : 111-111-1111</li>
 							<li>Linked IN <a href="#"><i class="fa fa-linkedin"></i> :Dhawal Khatiwala</a>
 						</ul>
 						<h3>Residence Address</h3>
