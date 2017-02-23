@@ -9,14 +9,14 @@
 		</div>
 		<div class="col-md-8 col-md-offset-2">
 			<div class="col-md-4"> <i class="fa fa-map-marker fa-2x"></i>
-				<p>25 Branchbrook Pl<br>
-					Newark, NJ 07104</p>
+				<p> 5001 Washington st Ave, <br>
+					Newark, NJ-07102</p>
 			</div>
 			<div class="col-md-4"> <i class="fa fa-envelope-o fa-2x"></i>
-				<p>dhawal.khatiwala@gmail.com</p>
+				<p>abc.xyz@gmail.com</p>
 			</div>
 			<div class="col-md-4"> <i class="fa fa-phone fa-2x"></i>
-				<p> +1 732 749 2112</p>
+				<p> +1 111 111 1111</p>
 			</div>
 			<div class="clearfix"></div>
 		</div>

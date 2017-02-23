@@ -16,16 +16,16 @@
 				<div class="panel panel-default container container-fluid font_style">
 				<h3>About Me</h3>
 						<ul>
-							<li>Date of Birth : Nov 26, 1992</li>
-							<li>E-Mail : dhawal.khatiwala@gmail.com</li>
+							<li>Date of Birth : Nov 11, 1980</li>
+							<li>E-Mail : abc.xyz@gmail.com</li>
 							<li>Contact Number : 111-111-1111</li>
 							<li>Linked IN <a href="#"><i class="fa fa-linkedin"></i> :Dhawal Khatiwala</a>
 						</ul>
 						<h3>Residence Address</h3>
 						<ul>
-							<li><p> 25 Branch Brook Pl, 
-									Apartment 3F, 
-									Newark, NJ-07104</p></li>
+							<li><p> , 
+									5001 Washington st Ave, 
+									Newark, NJ-07102</p></li>
 						</ul>
 						<h3>Computer Skills</h3>
 						<div class="panel panel-default">
